@@ -1,5 +1,11 @@
 # pi-roundtable-mcp
 
+> [!IMPORTANT]
+> **Moved.** pi-roundtable-mcp now lives in [pi-roundtable/packages/mcp](https://github.com/wayne930242/pi-roundtable/tree/master/packages/mcp).
+> The npm package name and public API are unchanged; new releases follow pi-roundtable's lockstep version and release workflow.
+> This repository is archived; please file issues and changes in the pi-roundtable repository.
+> The text below describes 0.4.x, the last release from this repository.
+
 Two plugins for [pi-roundtable](https://github.com/wayne930242/pi-roundtable), the Discord agent server:
 
 - `mcpConnectors`: the owner's own MCP connectors.
